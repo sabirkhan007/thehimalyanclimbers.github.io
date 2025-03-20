@@ -1,1 +1,0 @@
-# thehimalyanclimbers.github.io
