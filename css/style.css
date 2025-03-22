@@ -938,3 +938,13 @@
     transform: translateY(-9px);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
 }
+
+.package-title-name {
+    color: #ffffff;
+    text-shadow: 2px 2px 3px #1b0303;
+}
+
+.package-day-name {
+    color: #ffffff;
+    text-shadow: 2px 2px 3px #1b0303;
+}
